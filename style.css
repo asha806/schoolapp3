@@ -1,0 +1,16 @@
+#video{
+    width:100%;
+    height:500px;
+    border: none;
+}
+.treavel_mainDiv{
+    Border: 1px solid lightgray;
+}
+
+.treavel_mainDiv img{
+    width:100%;
+}
+
+.treavel_mainDiv hs , .treavel_mainDiv p{
+    margin: 20px;
+}
